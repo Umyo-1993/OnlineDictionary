@@ -1,0 +1,2 @@
+rootProject.name='Online Word smart app'
+include ':app'
